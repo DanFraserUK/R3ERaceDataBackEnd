@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace R3ERaceDataBackEnd
 {
 
-    public class Rootobject
+    public class RaceData
     {
         public string Server { get; set; }
         public DateTime StartTime { get; set; }
